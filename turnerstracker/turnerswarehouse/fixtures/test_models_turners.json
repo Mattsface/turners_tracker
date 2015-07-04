@@ -1,0 +1,16 @@
+[
+    {
+        "pk": 1,
+        "model": "Category",
+        "fields": {
+            "name": "Food"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "Category d d",
+        "fields": {
+          "name": ""
+        }
+    }
+]
