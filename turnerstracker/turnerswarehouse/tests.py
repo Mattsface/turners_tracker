@@ -1,6 +1,6 @@
 
 from django.test import TestCase
-from turnerwarehouse.models import Category, Item
+from turnerswarehouse.models import Category, Item
 
 
 class CategoryTestCase(TestCase):
